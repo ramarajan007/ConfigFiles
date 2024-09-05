@@ -1,3 +1,7 @@
+//This Config file is for PHPMyadmin Docker container from official Repository.
+// Single container to Access Multiple MySQL Container.
+//Paste this file in Location - /etc/phpmyadmin/
+
 <?php
 require '/etc/phpmyadmin/config.secret.inc.php';
 
